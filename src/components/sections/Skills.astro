@@ -1,0 +1,95 @@
+---
+import Section from "../Section.astro"
+
+import { skills } from "@cv"
+---
+
+<Section title="# Skills">
+
+        <ul class="transition delay-150 duration-300 ease-in-out ...">
+                { 
+                    skills.map(({ name, level, url }) => (
+                    <li> 
+                        
+                        <a href={url}>
+                            <span data-ripple-light="true" data-tooltip-target="tooltip-animation"
+                            class="select-none rounded-lg py-3 px-6 text-center align-middle font-sans text-xs font-bold uppercase transition-all disabled:opacity-50 transparent">{name}</span>
+                            <div data-tooltip="tooltip-animation" data-tooltip-mount="opacity-100 scale-100"
+    data-tooltip-unmount="opacity-0 scale-0 pointer-events-none"
+    data-tooltip-transition="transition-all duration-200 origin-bottom"
+    class="absolute z-50 whitespace-normal break-words rounded-md bg-black py-1.5 px-3 font-sans text-sm font-normal text-white">
+    {level}
+    </div>
+                        </a>
+                    </li>
+                    ))
+                }
+        </ul>
+
+        <button>
+            <a
+                class="group relative inline-block text-sm font-medium text-indigo-600 focus:outline-none focus:ring active:text-indigo-500"
+                href="/src/CV-Eduardo.pdf" download
+            >
+            <span
+                class=" rounded-md absolute inset-0 translate-x-0 translate-y-0 bg-indigo-600 transition-transform group-hover:translate-x-0.5 group-hover:translate-y-1.5">
+            </span>
+            <span class="rounded-md relative block border border-current bg-white px-8 py-3"> 
+                Download CV    
+            </span>
+            </a>
+        </button>
+
+
+        
+        
+
+        
+</Section>
+
+<script type="module" src="https://unpkg.com/@material-tailwind/html@latest/scripts/tooltip.js"></script>
+
+<style>
+
+    ul { 
+        display: inline-flex;
+        gap: 8px;
+        flex-wrap: wrap;
+    }
+
+    li { 
+        border-radius: 40px;
+        background: #eee;
+        color: black;
+        font-size: .70rem;
+        font-weight: 550;
+        padding: 0.3rem 0.7rem;
+    }
+
+    ul li {
+        margin: 2px;
+        text-align: center;
+        align-items: flex-start;
+        transition: linear 0.5s;
+    }
+
+    ul li:hover {
+        color: rgb(55, 59, 65);
+        background-color: #97f2d7;
+    }
+
+    button {
+        display: flex;
+        gap: 25px;
+        margin-top: 25px;
+        border-radius: 10%;
+        
+    }
+
+</style>
+
+
+
+
+
+

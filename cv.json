@@ -1,0 +1,240 @@
+    {
+        "basics": {
+        "name": "Eduardo Rodriguez",
+        "label": "Desarrollador web jr",
+        "image": "https://avatars.githubusercontent.com/u/66185073?s=400&u=e1765b392d4cc3b713fd15aa86363d31092d791c&v=4",
+        "email": "lalopx555@gmail.com",
+        "phone": "776 106 6436",
+        "url": "https://johndoe.com",
+        "summary": "Soy un joven entusiasta del Desarrollo Web frontend y backend con un año de experiencia y con ganas de aprender y aportar cosas nuevas. Actualmente estoy en búsqueda activa de empleo como desarrollador.",
+        "location": {
+            "address": "Col La Estacion",
+            "postalCode": "73180",
+            "city": "Ahuazotepec Pue",
+            "countryCode": "Mex",
+            "region": "Mexico"
+        },
+        "profiles": [
+        {
+            "network": "GitHub",
+            "username": "laloxox",
+            "url": "https://github.com/laloxox"
+        },
+        {
+            "network": "Linkedin",
+            "username": "Eduardo Rodriguez",
+            "url": "https://www.linkedin.com/in/eduardo-rodriguéz-1313911bb/"
+        }
+    ]
+        },
+        "work": [{
+        "name": "Autofletes Franco S.A de C.V",
+        "position": "Monitoreo y Logistica",
+        "url": "http://autofletes-franco.com.mx/",
+        "startDate": "2022-10-20",
+        "endDate": null,
+        "summary": "Monitoreo activo de las unidades de transporte de carga de la empresa mediante sistemas de posicionamiento de terceros en la web, Creación y administración de sitio web de la empresa mediante un generador de sitios web proporcionado por Telmex junto con un Hosting y Dominio, Soporte Tecnico e Informático en oficina, facturación de Tickets, Generacion de reportes en excel, Verificación de la empresa en google maps.",
+        "highlights": [
+            "Started the company"
+        ]
+        },
+        {
+            "name": "Residencia Profesional en ITSH",
+            "position": "Pasante/Residente",
+            "url": "https://www.huauchinango.tecnm.mx/",
+            "startDate": "2020",
+            "endDate": "2021",
+            "summary": "Análisis del flujo del proceso de Residencia Profesional del Instituto asi como el maquetado del mismo mediante flujogramas, prototipos y mockaps.",
+            "highlights": [
+                "Started the company"
+            ]
+        },
+        {
+            "name": "DigiCeo",
+            "position": "Manager de redes sociales y Edicion de codigo",
+            "url": "",
+            "startDate": "2019",
+            "endDate": "2020",
+            "summary": "Análisis y Edición de lineas de código HTML especificas para la mejora de las paginas web en proceso de desarrollo en la empresa, Creé diseños e imagenes para publicaciones de redes sociales y tambien redacte Copywriting para publicaciones de redes sociales de la empresa.",
+            "highlights": [
+                "Started the company"
+            ]
+        }],
+        "volunteer": [{
+        "organization": "Organization",
+        "position": "Volunteer",
+        "url": "https://organization.com/",
+        "startDate": "2012-01-01",
+        "endDate": "2013-01-01",
+        "summary": "Description…",
+        "highlights": [
+            "Awarded 'Volunteer of the Month'"
+        ]
+        }],
+        "education": [{
+        "institution": "Instituto Tecnologico Superior de Huauchinango",
+        "url": "https://www.huauchinango.tecnm.mx/",
+        "area": "ING en Sistemas Computacionales",
+        "studyType": "Bachelor",
+        "startDate": "2016-01-01",
+        "endDate": "2021-01-01",
+        "score": "8.0",
+        "courses": [
+            "DB1101 - Basic SQL"
+        ]
+        }],
+        "awards": [{
+        "title": "Award",
+        "date": "2014-11-01",
+        "awarder": "Company",
+        "summary": "There is no spoon."
+        }],
+        "certificates": [{
+        "name": "Certificate",
+        "date": "2021-11-07",
+        "issuer": "Company",
+        "url": "https://certificate.com"
+        }],
+        "publications": [{
+        "name": "Publication",
+        "publisher": "Company",
+        "releaseDate": "2014-10-01",
+        "url": "https://publication.com",
+        "summary": "Description…"
+        }],
+        "skills": [
+            {
+                        "name": "HTML",
+                        "level": "Avanzado",
+                        "url":"https://html.spec.whatwg.org/multipage/",
+                        "keywords": [
+                            "Desarollo Web", "Frontend"
+                        ]
+                },
+                {
+                        "name": "CSS",
+                        "level": "Avanzado",
+                        "url":"https://www.w3.org/Style/CSS/",
+                        "keywords": [
+                            "Desarollo Web", "Frontend", "Diseño Responsive"
+                        ]
+                },
+                {
+                        "name": "Java Script",
+                        "level": "Intermedio",
+                        "url":"https://isp.netscape.com/",
+                        "keywords": [
+                            "Desarollo Web", "Frontend", "Diseño Responsive"
+                        ]
+                },
+                {
+                        "name": "Tailwind",
+                        "level": "Intermedio",
+                        "url":"https://tailwindcss.com/",
+                        "keywords": [
+                            "Desarollo Web", "Frontend", "Diseño Responsive", "CSS Framework"
+                        ]
+                },
+                {
+                        "name": "Bootstrap",
+                        "level": "Intermedio",
+                        "url":"https://getbootstrap.com/",
+                        "keywords": [
+                            "Desarollo Web", "Frontend", "Diseño Responsive", "CSS Framework"
+                        ]
+                },
+                {
+                        "name": "Node",
+                        "level": "Intermedio",
+                        "url":"https://nodejs.org/en/",
+                        "keywords": [
+                            "Desarollo Web", "Backend", "Servidor", "JavaScript"
+                        ]   
+                },
+                {
+                        "name": "MySQL",
+                        "level": "Intermedio",
+                        "url":"https://www.mysql.com/",
+                        "keywords": [
+                            "Bases de Datos", "Backend", "SQL", "Almacenamiento de Datos"
+                        ]   
+                },
+                {
+                        "name": "Git",
+                        "level": "Avanzado",
+                        "url":"https://git-scm.com/",
+                        "keywords": [
+                            "Control de Versiones", "Colaboracion", "Codigo Fuente"
+                        ]   
+                },
+                {
+                        "name": "GitHub",
+                        "level": "Avanzado",
+                        "url":"https://github.com/",
+                        "keywords": [
+                            "Control de Versiones", "Colaboracion", "Codigo Fuente", "Git"
+                        ]   
+                },
+                {
+                        "name": "Visual Studio Code",
+                        "level": "Avanzado",
+                        "url":"https://code.visualstudio.com/",
+                        "keywords": [
+                            "Desarollo Web", "Backend","Frontend", "Editor de Codigo"
+                        ]   
+            }
+    ],
+        "languages": [{
+        "language": "English",
+        "fluency": "Native speaker"
+        }],
+        "interests": [{
+        "name": "Wildlife",
+        "keywords": [
+            "Ferrets",
+            "Unicorns"
+        ]
+        }],
+        "references": [{
+        "name": "Jane Doe",
+        "reference": "Reference…"
+        }],
+        "projects": [
+            {
+                "name": "Rick y Morty Characters ",
+                "isActive": "True",
+                "description": "Lista de Personajes de la serie Rick y Morty obtenidos medienate la API de Rick y Morty haciendo uso de herramientas como React y Vite.js",
+                "highlights": [
+                    "Rick Sanchez Hijo de perra cuenta conmigo"
+                ],
+                "url": "https://laloxox.github.io/Personajes-Rick-y-Morty-react/"
+        },
+        {
+                "name": "Autofletes Franco S.A de C.V",
+                "isActive": "True",
+                "description": "Pagina de presentacion de empresa de fletes con transporte de carga pesada",
+                "highlights": [
+                    "Autofletes Franco"
+                ],
+                "url": "http://autofletes-franco.com.mx/"
+        },
+        {
+                "name": "Pokemon Quiz",
+                "isActive": "True",
+                "description": "Quiz con preguntas sobre la serie Pokemon y sus personajes construido con HTML, CSS Y JavaScript",
+                "highlights": [
+                    "Crees saberlo todo sobre pokemon??"
+                ],
+                "url": "https://laloxox.github.io/Pokemon-Quiz/"
+        },
+        {
+                "name": "Portafolio",
+                "isActive": "True",
+                "description": "Primer Portafolio personal",
+                "highlights": [
+                    "Portfolio"
+                ],
+                "url": "https://laloxox.github.io/portafolioeduardo/"
+        }
+    ]
+    }
